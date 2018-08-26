@@ -1,0 +1,12 @@
+
+.entry { 
+  position: relative;
+  margin-bottom: 2.5em;
+}
+
+.description {
+  display: inline-block;
+  position: absolute;
+  top: -1em;
+}
+
